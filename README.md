@@ -4,13 +4,6 @@
 
 The command line isn't all business, check out these cool [easter eggs](http://gizmodo.com/a-brief-history-of-easter-eggs-in-tech-5900026) that you can play with in the terminal.
 
-### Star Wars
-<img src="https://s3.amazonaws.com/after-school-assets/star-wars" style="width:400px;">
-Type this into the command line to see the original Star Wars movie play out in [ASCII characters](http://www.asciitable.com/): 
-```bash
-telnet towel.blinkenlights.nl
-```
-
 ### Choo! Choo!
 Hop on the command line train!
 <img src="https://s3.amazonaws.com/after-school-assets/train" style="width:400px;">
