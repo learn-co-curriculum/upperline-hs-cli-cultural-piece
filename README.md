@@ -13,13 +13,13 @@ brew install sl
 ```
 or on Linux:
 ```bash
-apt-get install ls
+apt-get install sl
 ```
 After it installs, enter: `sl`
 
 ### Enter the Matrix
 <img src="https://s3.amazonaws.com/after-school-assets/cmatrix" style="width:400px;">
-To install on Mac, enter: 
+To install on Mac, enter:
 ```bash
 brew install cmatrix
 ```
@@ -38,18 +38,18 @@ brew install cowsay
 or on Linux:
 ```bash
 apt-get install cowsay
-``` 
+```
 To run it, enter: `cowsay "<enter anything you want the cow to say here>"`. For example: `cowsay "moo!"`
 
 ### Get your fortune
-To install on Mac, enter: 
+To install on Mac, enter:
 ```bash
 brew install fortune
 ```
 or on Linux:
 ```bash
 apt-get install fortune
-``` 
+```
 To run it, enter: `fortune`
 
 ### Get your fortune from a cow
