@@ -1,6 +1,4 @@
-
-
-## CLI Fun Stuff
+# CLI Fun Stuff
 
 The command line isn't all business, check out these cool [easter eggs](http://gizmodo.com/a-brief-history-of-easter-eggs-in-tech-5900026) that you can play with in the terminal.
 
